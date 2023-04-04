@@ -3,7 +3,7 @@ import numpy as np
 import math
 import absfuncs as afs
 import constants as cts
-import decimals
+
 
 #properties of the incident particle (ALPHA PARTICLE)
  #[kg], mass of alpha particle
