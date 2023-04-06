@@ -6,7 +6,7 @@ from math import sin, cos, atan
 def rays(R,L,N,M,I,J,top):
     """
     Computes all the distances from the IJ plane to the surface cylinder in NM directions.
-    testing a change in vscode for git.
+    Testing a change in vscode for git.
     """
     dphi = 2 * math.pi / N
     dtheta = math.pi / (M-1)
